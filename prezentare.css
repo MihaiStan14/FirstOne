@@ -1,0 +1,43 @@
+body{
+	background-color:yellow;
+}
+h1{
+	font-family:'Times New Roman';
+	font-size:50px;
+	color:violet;
+	text-align:center;
+	background-color:green;
+}
+h2{
+	font-family:'Papyrus';
+	font-size:30px;
+	color:red;
+	text-decoration:green dotted underline;
+}
+ul{
+	font-family:'Papyrus';
+	font-size:20px;
+}
+table,th,td{
+	font-family:'Papyrus';
+	font-size:20px;
+	border: 2px solid #524;
+	text-align:center;
+}
+thead{
+	color:red;
+}
+img{
+	border: 5px solid #524;
+	border-radius:30%;
+	width:25%;
+}
+th{
+	height:70px;
+	background-color:green;
+}
+tr:hover{background-color:red;}
+.link{
+	color:green;
+	font-family:sans-serif;
+}
